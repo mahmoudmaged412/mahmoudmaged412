@@ -1,5 +1,7 @@
-# 💫 About Me:
-<br>🌐 I'm a full-stack developer and Junior project manager building my version of the life I want one step at a time. <br>👩🏻‍💻All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.<br>📓I studied computer science engineering in Debrecen University.<br>
+# 🧙 Mahmoud Tourky
+
+
+**`Digital Magician (Developer/ Project Manager )`**<br>🌐 I'm a full-stack developer and Junior project manager building my version of the life I want one step at a time. <br>👩🏻‍💻All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.<br>📓I studied computer science engineering in Debrecen University.<br>
 
 
 ## 🌐 Socials:
